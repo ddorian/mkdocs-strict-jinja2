@@ -1,0 +1,29 @@
+{
+  "template": "https://github.com/radix-ai/poetry-cookiecutter",
+  "commit": "8ab7ee0accff3b9cb0e470bfc925858fc04d1e97",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_type": "package",
+      "project_name": "mkdocs-strict-jinja2",
+      "project_description": "mkdocs plugin that enforces strict jinja2 config.",
+      "project_url": "https://github.com/ddorian/mkdocs-strict-jinja2",
+      "author_name": "Dorian Hoxha",
+      "author_email": "dorian.hoxha@gmail.com",
+      "python_version": "3.8^",
+      "development_environment": "simple",
+      "with_conventional_commits": "0",
+      "with_fastapi_api": "0",
+      "with_typer_cli": "0",
+      "continuous_integration": "GitHub",
+      "private_package_repository_name": "",
+      "private_package_repository_url": "",
+      "__docker_image": "python:$PYTHON_VERSION-slim",
+      "__docstring_style": "NumPy",
+      "__project_name_kebab_case": "mkdocs-strict-jinja2",
+      "__project_name_snake_case": "mkdocs_strict_jinja2",
+      "_template": "https://github.com/radix-ai/poetry-cookiecutter"
+    }
+  },
+  "directory": null
+}

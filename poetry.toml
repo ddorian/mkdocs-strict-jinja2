@@ -1,0 +1,8 @@
+[virtualenvs]
+create = true
+in-project = true
+
+[installer]
+parallel = true
+# https://stackoverflow.com/questions/74385209/poetry-install-throws-connection-pool-is-full-discarding-connection-pypi-org
+max-workers = 10
