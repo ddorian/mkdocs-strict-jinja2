@@ -4,7 +4,7 @@ build-backend = "poetry.core.masonry.api"
 
 [tool.poetry]  # https://python-poetry.org/docs/pyproject/
 name = "mkdocs-strict-jinja2"
-version = "0.0.0"
+version = "0.0.1"
 description = "mkdocs plugin that enforces strict jinja2 config."
 authors = ["Dorian Hoxha <dorian.hoxha@gmail.com>"]
 readme = "README.md"
